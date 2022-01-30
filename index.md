@@ -23,7 +23,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
 - Used Logistic regression classifier & optimized the accuracy by using the ROC curve
 - Explored a machine learning approach to medical diagnosis
-
+- yfguyf
 ***
 
 [Identifying symptoms of orthopedic patients as normal or abnormal](/sample_page)
