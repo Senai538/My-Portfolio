@@ -8,9 +8,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
-### Skills Used 
-- Python, Matplotlib, Pandas, Linear regression, Numpy, Sklearn
-### Project Objective
+**Skills Used**:Python, Matplotlib, Pandas, Linear regression, Numpy, Sklearn
+**Project Objective**:
 
 
 ### Quantifiable Result
