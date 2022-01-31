@@ -8,11 +8,6 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
-**Skills Used**:Python, Matplotlib, Pandas, Linear regression, Numpy, Sklearn
-**Project Objective**:
-
-
-### Quantifiable Result
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
@@ -24,29 +19,24 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/breast-cancer.jpeg?raw=true"/>
 
-### Skills Used 
-
-### Project Objective
-
-
-### Quantifiable Result
 - Used logistic regression to identify a tumour as malignant or benign based on various attributes
 - Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
 - Used Logistic regression classifier & optimized the accuracy by using the ROC curve
 - Explored a machine learning approach to medical diagnosis
-- yfguyf
+
 ***
 
 [Identifying symptoms of orthopedic patients as normal or abnormal](/sample_page)
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
- 
-### Skills Used 
 
-### Project Objective
-
-
-### Quantifiable Result
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
+
+***
+
+[Handwriting Recognition Using Convolution Neural Network](https://github.com/Senai538/Handwriting-Recognition-using-DNN)
+
+<img src="images/Neural-MNIST.png?raw=true"/>
+
