@@ -49,6 +49,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/Neural-MNIST.png?raw=true"/>
 
-**Skills Used**:Python, Pandas, Seaborn, Keras, Tensorflow, Matplotlib, Numpy
+**Skills Used**:Python, Pandas, Seaborn, Keras, Tensorflow, Matplotlib, Numpy.
+
 **Project Obective**:In this project we will build a deep neural network that will recognize the handwritten text. we are going to use mnist dataset which has 60000 handwritten text samples. we will train our model and check accuracy and if accuracy is not up-to the mark then we will modify our CNN model.
+
 **Quantifiable Results**:We could identify what the correct hand written number is 97% of the time. First I used neutral network with no hidden layer and my accuracy was a little less. After adding the hidden layer my accuracy went up by 2%.
