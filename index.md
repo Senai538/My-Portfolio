@@ -21,39 +21,6 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Diagnosis of breast cancer using a logistic classifier](https://github.com/emani27/Emani_DataScience/blob/master/Logistic%20Regression%20Project.ipynb)
-
-<img src="images/breast-cancer.jpeg?raw=true"/>
-
-**Skills Used**:
-
-**Project Obective**:
-
-**Quantifiable Results**:
-
-- Used logistic regression to identify a tumour as malignant or benign based on various attributes
-- Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
-- Used Logistic regression classifier & optimized the accuracy by using the ROC curve
-- Explored a machine learning approach to medical diagnosis
-
-***
-
-[Identifying symptoms of orthopedic patients as normal or abnormal](/sample_page)
-
-<img src="images/knee-brace-ortho.png?raw=true"/>
-
-**Skills Used**:
-
-**Project Obective**:
-
-**Quantifiable Results**:
-
-- Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
-- Compared predictive performance by fitting a Naive Bayes model to the data
-- Selected best model based on train and test performance
-
-***
-
 [Handwriting Recognition Using Convolution Neural Network](https://github.com/Senai538/Handwriting-Recognition-using-DNN)
 
 <img src="images/Neural-MNIST.png?raw=true"/>
