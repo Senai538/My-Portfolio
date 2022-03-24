@@ -4,21 +4,17 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/Senai538/Linear-Regression-Model-SeoulBike/blob/0771b86207bbc25911e6bcb19f6df77343a07752/Linear_Regression%20Project%20Senai11.ipynb)
+[Car Price Prediction](https://github.com/Senai538/Car-Price-Prediction)
 
-<img src="images/seoul-bikes.jpeg?raw=true"/>
+<img src="images/carprediction.jpeg?raw=true"/>
 
 **Skills Used**:Python, Numpy, Pandas, Matplotlib, Linear Regression, Sklearn
 
-**Project Obective**:
+**Project Obective**: In this project I build a linear regression model to predict the price of a car. 
 
-**Quantifiable Results**:
+**Quantifiable Results**: I got a 91% accuracy.
 
-- Used Linear Regression to predict the number of bikes rented in the city of Seoul
-- The data had quite a few categorical variables which were encoded for use in the model
-- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
-- Fit a multiple linear regression model with high prediction accuracy through iteration
-
+- We learn what variables affect the price of a car 
 ***
 
 [Handwriting Recognition Using Convolution Neural Network](https://github.com/Senai538/Handwriting-Recognition-using-DNN)
