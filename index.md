@@ -14,7 +14,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Quantifiable Results**: I got a 91% accuracy.
 
-- We learn what variables affect the price of a car 
+- We learn what variables affect the price of a car
+
 ***
 
 [Handwriting Recognition Using Convolution Neural Network](https://github.com/Senai538/Handwriting-Recognition-using-DNN)
