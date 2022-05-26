@@ -29,7 +29,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Apple Stock Prediction Project](https://github.com/Senai538/Lstm-Apple-Stock-Prediction)
+[Apple Stock Prediction Project](https://github.com/Senai538/Apple-Stock-Prediction-/blob/main/apple_project_close.ipynb)
 
 <img src="images/stock-1.jpeg?raw=true"/>
 
