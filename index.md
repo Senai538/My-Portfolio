@@ -39,3 +39,16 @@ Here are some of my best Data Science Projects. I have explored various machine-
 **Project Obective**: LSTM networks are a type of recurrent neural network capable of learning order dependence in sequence prediction problems. In this Project we used LSTM to predict stock Close prediction. I used timestep to help me do this. 
 
 **Quantifiable Results**:We could predict the stock Close for the day with  89% accuracy. 
+
+***
+
+[Logistic Regression Project](https://github.com/Senai538/Logistic-Regression)
+
+<img src="images/Bank.jpeg?raw=true"/>
+
+**Skills Used**:Python, Pandas, Numpy, Seaborn, Logistic Regression
+
+**Project Obective**: The classification goal of this project was to predict if the client will subscribe a term deposit. I used logistic regression then had to implement SMOTE to deal with the oversampling.
+
+**Quantifiable Results**:We could predict the stock Close for the day with  90% accuracy. 
+
